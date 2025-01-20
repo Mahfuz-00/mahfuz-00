@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 As a new and ambitious Flutter developer, I'm on a mission to craft dynamic and innovative mobile applications that redefine user experiences. With a passion for clean code and a keen eye for design, I thrive on tackling complex challenges and turning ideas into reality. Eager to collaborate, learn, and grow within the vibrant Flutter community, I'm driven by a relentless pursuit of excellence and a commitment to staying at the forefront of technology. Let's build something extraordinary together! #FlutterDeveloper #MobileApps #Innovation 📱💡
+🚀 As a Flutter developer, I'm on a mission to craft dynamic and innovative mobile applications that redefine user experiences. With a passion for clean code and a keen eye for design, I thrive on tackling complex challenges and turning ideas into reality. Eager to collaborate, learn, and grow within the vibrant Flutter community, I'm driven by a relentless pursuit of excellence and a commitment to staying at the forefront of technology. Let's build something extraordinary together! #FlutterDeveloper #MobileApps #Innovation 📱💡
 
 
 ## 🌐 Socials:
