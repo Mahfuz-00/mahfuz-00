@@ -1,5 +1,8 @@
 # 💫 About Me:
-🚀 As a Flutter developer, I'm on a mission to craft dynamic and innovative mobile applications that redefine user experiences. With a passion for clean code and a keen eye for design, I thrive on tackling complex challenges and turning ideas into reality. Eager to collaborate, learn, and grow within the vibrant Flutter community, I'm driven by a relentless pursuit of excellence and a commitment to staying at the forefront of technology. Let's build something extraordinary together! #FlutterDeveloper #MobileApps #Innovation 📱💡
+Adaptable Mobile-Based full-stack developer with 2+ years of expertise building scalable cross-platform and native
+mobile apps, currently expanding into full-stack web architectures with Laravel and React.js. Dedicated to leveraging
+clean system architecture, robust backend APIs, and AI-driven workflows to ship reliable production-grade software
+across mobile and web ecosystems.
 
 
 ## 🌐 Socials:
